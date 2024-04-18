@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Django
+*.log
+db.sqlite3
+
+# Bootstrap
+/node_modules/
+/dist/
